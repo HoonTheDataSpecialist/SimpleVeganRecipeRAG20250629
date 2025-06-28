@@ -40,8 +40,8 @@ This dataset contains over 24,000 plant-based recipes including titles, ingredie
 ├── Data/
 #### Persistent vector store (Chroma)
 ├── chroma_db/
-#### Script to clean and ingest recipes
-├── ingest_recipes.py
+#### Jupyter Notebook Utilized for Investigation
+├── veganRecipeSimpleRAG.ipynb
 #### Contains Dependencies Utilized
 ├── requirements.txt
 #### Contains API Keys for Langchasin and OpenAI
